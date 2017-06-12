@@ -1,5 +1,5 @@
 package com.cis;
-
+// Added line below pacakege statement
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
@@ -18,6 +18,7 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+        
     }
 
     /**
